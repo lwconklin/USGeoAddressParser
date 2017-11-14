@@ -1,0 +1,6 @@
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\bin\Debug\AddressParser.dll.config
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\bin\Debug\AddressParser.dll
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\bin\Debug\AddressParser.pdb
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\obj\Debug\USAddrParsing.csprojResolveAssemblyReference.cache
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\obj\Debug\AddressParser.dll
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\obj\Debug\AddressParser.pdb

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NuGet.ContentModel</id>
+    <version>4.0.0</version>
+    <authors>NuGet.ContentModel</authors>
+    <owners>NuGet.ContentModel</owners>
+    <licenseUrl>https://raw.githubusercontent.com/NuGet/NuGet.Client/dev/LICENSE.txt</licenseUrl>
+    <projectUrl>https://github.com/NuGet/NuGet.Client</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>NuGet v3 core library.</description>
+    <copyright>Copyright .NET Foundation. All rights reserved.</copyright>
+    <dependencies>
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework="Unsupported0.0">
+        <dependency id="NETStandard.Library" version="1.6.0" />
+        <dependency id="System.ObjectModel" version="4.0.12" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

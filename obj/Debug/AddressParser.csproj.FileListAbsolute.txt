@@ -1,0 +1,38 @@
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\obj\Debug\AddressParser.csprojResolveAssemblyReference.cache
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.Configuration.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.DataAccess.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.Logging.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.RobotTasks.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.Security.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.Security.SecureAccount.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.Utilities.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\Interop.RCLCORLib.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\Interop.cwbx.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\QT.Security.SecureAccount.XmlSerializers.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\AddressParser.dll.config
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\AddressParser.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\bin\Debug\AddressParser.pdb
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\obj\Debug\AddressParser.dll
+C:\TFS2013\SandBox\LConklin\AddressParser\AddressParser\obj\Debug\AddressParser.pdb
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\AddressParser.dll.config
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\AddressParser.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\AddressParser.pdb
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.Configuration.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.DataAccess.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.Logging.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.RobotTasks.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.Security.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.Security.SecureAccount.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.Utilities.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\Interop.RCLCORLib.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\Interop.cwbx.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\bin\Debug\QT.Security.SecureAccount.XmlSerializers.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\obj\Debug\AddressParser.csprojResolveAssemblyReference.cache
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\obj\Debug\AddressParser.dll
+C:\TFS2013\BD\NET\Legal\AddressParser\AddressParser\obj\Debug\AddressParser.pdb
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\bin\Debug\AddressParser.dll.config
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\bin\Debug\AddressParser.dll
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\bin\Debug\AddressParser.pdb
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\obj\Debug\AddressParser.csprojResolveAssemblyReference.cache
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\obj\Debug\AddressParser.dll
+C:\Users\585351\Documents\Visual Studio 2012\Projects\AddressParser\obj\Debug\AddressParser.pdb
