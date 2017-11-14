@@ -3,6 +3,7 @@
 // </copyright>
 // <author>Larry Conklin</author>
 // <summary>US Address components class.</summary>
+
 namespace USGeoAddressParser
 {
 using System;

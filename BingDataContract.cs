@@ -3,6 +3,7 @@
 // </copyright>
 // <author>Larry Conklin</author>
 // <summary>US Address Parsing class.</summary>
+
 namespace USGeoAddressParser
 {
     using System.Runtime.Serialization;
