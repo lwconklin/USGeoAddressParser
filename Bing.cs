@@ -14,7 +14,7 @@ using System.Text;
 
     internal class Bing 
     {
-        private string userBingMapKey = "AiM4rhsS7P83-sEl6sCQ5NnpHAIiIn9_MT9b9veaCzWz0y0h-SEksV8Pqtig1Hj3";
+        private string userBingMapKey = "";
  
         public HttpWebRequest WebGet() 
         {
